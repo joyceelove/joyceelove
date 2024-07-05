@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm joyceelove</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Data Analyst from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyceelove&label=Profile%20views&color=0e75b6&style=flat" alt="joyceelove" /> </p>
 
@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyceelove&show_icons=true&locale=en" alt="joyceelove" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyceelove&" alt="joyceelove" /></p>
-Hello
